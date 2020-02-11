@@ -9,6 +9,7 @@ In the structer of Canon, there are two main parts - the initial melody, is call
 - Experience the beauty of the Canon and love
 ### How to achive 
 - The two people are just like the initial melody and the imitative melody in the Canon - They don't live in the same place, but they can follow the own routes until they finally meet. 
+
 ![](/img/canon1.png)
 
 ## Project 2

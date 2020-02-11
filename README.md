@@ -12,7 +12,7 @@ In the structer of Canon, there are two main parts - the initial melody, is call
 
 
 ## Project 2
-In project 2, I want to visualize the popularity data which I have collected from Weibo ( Chinese verison of Twitter ) about the Neocoronavirus during the first quater of 2020. By showing the data-visualization, audiences are able to see the epidemics crisis from another perspective - the fuzzy boundary between truth and rumors, the fighting between freedom of speech and government supervision. 
+In project 2, I want to visualize the popularity data which I have collected from Weibo ( the Chinese equivalent of Twitter ) about the Neocoronavirus during the first quater of 2020. By showing the data-visualization, audiences are able to see the epidemics crisis from another perspective - the fuzzy boundary between truth and rumors, the fighting between freedom of speech and government supervision. 
 
 ### The user 
 - Everyone who are rational and want to know the real situation about the Neocoronavirus in China
@@ -20,3 +20,17 @@ In project 2, I want to visualize the popularity data which I have collected fro
 - Learning the event of Neocoronavirus from a social media perspective by data-vis
 ### How to achive 
 - By using Python to collect the popularity data about the Neocoronavirus news from Weibo and visualization to provide the perspective.
+
+
+## Project 3
+Basically, project 3 is a game that tells a story about a moth finding and chasing light in endless darkness. Player can change the mechanism and move the light in the game to point the moth in the right way to the light. 
+
+### The user 
+- Players who like small independent games.
+### The experience 
+- Tell the player a story about overcoming difficulties and provide them a lonely but wonderful journey full of challenges and hopes.
+### How to achive 
+- A short but meaningful story
+- Easy interaction
+- Simple and clean visual style
+

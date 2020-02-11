@@ -9,3 +9,14 @@ In the structer of Canon, there are two main parts - the initial melody, is call
 - Experience the beauty of the Canon and love
 ### How to achive 
 - The two people are just like the initial melody and the imitative melody in the Canon - They don't live in the same place, but they can follow the own routes until they finally meet. 
+
+
+## Project 2
+In project 2, I want to visualize the popularity data which I have collected from Weibo ( Chinese verison of Twitter ) about the Neocoronavirus during the first quater of 2020. By showing the data-visualization, audiences are able to see the epidemics crisis from another perspective - the fuzzy boundary between truth and rumors, the fighting between freedom of speech and government supervision. 
+
+### The user 
+- Everyone who are rational and want to know the real situation about the Neocoronavirus in China
+### The experience 
+- Learning the event of Neocoronavirus from a social media perspective by data-vis
+### How to achive 
+- By using Python to collect the popularity data about the Neocoronavirus news from Weibo and visualization to provide the perspective.

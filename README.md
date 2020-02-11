@@ -9,7 +9,7 @@ In the structer of Canon, there are two main parts - the initial melody, is call
 - Experience the beauty of the Canon and love
 ### How to achive 
 - The two people are just like the initial melody and the imitative melody in the Canon - They don't live in the same place, but they can follow the own routes until they finally meet. 
-
+![](/img/canon1.png)
 
 ## Project 2
 In project 2, I want to visualize the popularity data which I have collected from Weibo ( the Chinese equivalent of Twitter ) about the Neocoronavirus during the first quater of 2020. By showing the data-visualization, audiences are able to see the epidemics crisis from another perspective - the fuzzy boundary between truth and rumors, the fighting between freedom of speech and government supervision. 

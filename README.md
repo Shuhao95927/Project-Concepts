@@ -21,7 +21,8 @@ In project 2, I want to visualize the popularity data which I have collected fro
 - Learning the event of Neocoronavirus from a social media perspective by data-vis
 ### How to achive 
 - By using Python to collect the popularity data about the Neocoronavirus news from Weibo and visualization to provide the perspective.
-
+![](/img/table.png)
+this is one of the data I have collected.
 
 ## Project 3
 Basically, project 3 is a game that tells a story about a moth finding and chasing light in endless darkness. Player can change the mechanism and move the light in the game to point the moth in the right way to the light. 
